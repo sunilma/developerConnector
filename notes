@@ -1,0 +1,19 @@
+DevConnector Project
+
+Day 1:
+- Installed Nodejs, Vscode, postman and other necessary applications and dependencies for the project.
+- Mongodb database on cloud.mongodb.com
+- initialized git using 'git init'
+- initialized package.json using 'npm init'
+- Installed different packages
+    1) express
+    2) express-validator for validation
+    3) bcryptjs - for password encryption
+    4) config - for global variables
+    5) gravatar - to pull avatar if available online
+    6) jsonwebtoken - for token based validation
+    7) mongoose - easier access to mongodb
+    8) request - easier access to github repo
+- Installed development packages (only used during development)
+    1) nodemon - to get upto date server response
+    2) concurrently - to run the frontend and backend all in 1 terminal easily
